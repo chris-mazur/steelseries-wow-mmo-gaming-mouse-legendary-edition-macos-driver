@@ -2,7 +2,7 @@
 
 ![SteelSeries World Warcraft Legendary MMO Gaming Mouse](docs/mouse.png)
 
-[Product page (Laptops Direct)](https://www.laptopsdirect.co.uk/steelseries_world_warcraft_legendary_mmo_gaming_mouse_62050/version.asp)
+[Product description](https://www.techpowerup.com/150306/steelseries-announces-world-of-warcraft-legendary-edition-gaming-mouse)
 
 SteelSeries never released a macOS driver for this mouse, and generic HID
 remappers (e.g. [Mac Mouse Fix](https://macmousefix.com/)) only pick up the
